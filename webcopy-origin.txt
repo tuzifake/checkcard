@@ -1,0 +1,84 @@
+Uri: https://cdn.jsdelivr.net/npm/@mdi/font@latest/css/materialdesignicons.min.css
+File Name: C:\Downloaded Web Sites\guclan.hostman.site\npm\@mdi\font@latest\css\materialdesignicons.min.css
+Content Type: text/css
+
+Uri: https://cdn.jsdelivr.net/npm/@mdi/font@latest/fonts/materialdesignicons-webfont.eot?
+File Name: C:\Downloaded Web Sites\guclan.hostman.site\npm\@mdi\font@latest\fonts\materialdesignicons-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://cdn.jsdelivr.net/npm/@mdi/font@latest/fonts/materialdesignicons-webfont.eot?v=6.5.95
+File Name: C:\Downloaded Web Sites\guclan.hostman.site\npm\@mdi\font@latest\fonts\materialdesignicons-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://cdn.jsdelivr.net/npm/@mdi/font@latest/fonts/materialdesignicons-webfont.ttf?v=6.5.95
+File Name: C:\Downloaded Web Sites\guclan.hostman.site\npm\@mdi\font@latest\fonts\materialdesignicons-webfont.ttf
+Content Type: font/ttf
+
+Uri: https://cdn.jsdelivr.net/npm/@mdi/font@latest/fonts/materialdesignicons-webfont.woff2?v=6.5.95
+File Name: C:\Downloaded Web Sites\guclan.hostman.site\npm\@mdi\font@latest\fonts\materialdesignicons-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://cdn.jsdelivr.net/npm/@mdi/font@latest/fonts/materialdesignicons-webfont.woff?v=6.5.95
+File Name: C:\Downloaded Web Sites\guclan.hostman.site\npm\@mdi\font@latest\fonts\materialdesignicons-webfont.woff
+Content Type: font/woff
+
+Uri: https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700,900
+File Name: C:\Downloaded Web Sites\guclan.hostman.site\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/roboto/v29/KFOkCnqEu92Fr1MmgVxIIzc.ttf
+File Name: C:\Downloaded Web Sites\guclan.hostman.site\s\roboto\v29\KFOkCnqEu92Fr1MmgVxIIzc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v29/KFOlCnqEu92Fr1MmEU9fBBc9.ttf
+File Name: C:\Downloaded Web Sites\guclan.hostman.site\s\roboto\v29\KFOlCnqEu92Fr1MmEU9fBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v29/KFOlCnqEu92Fr1MmSU5fBBc9.ttf
+File Name: C:\Downloaded Web Sites\guclan.hostman.site\s\roboto\v29\KFOlCnqEu92Fr1MmSU5fBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v29/KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+File Name: C:\Downloaded Web Sites\guclan.hostman.site\s\roboto\v29\KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v29/KFOlCnqEu92Fr1MmYUtfBBc9.ttf
+File Name: C:\Downloaded Web Sites\guclan.hostman.site\s\roboto\v29\KFOlCnqEu92Fr1MmYUtfBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v29/KFOmCnqEu92Fr1Mu4mxP.ttf
+File Name: C:\Downloaded Web Sites\guclan.hostman.site\s\roboto\v29\KFOmCnqEu92Fr1Mu4mxP.ttf
+Content Type: font/ttf
+
+Uri: https://guclan.hostman.site/
+File Name: C:\Downloaded Web Sites\guclan.hostman.site\index.htm
+Content Type: text/html
+
+Uri: https://guclan.hostman.site/css/app.b6fbc7aa.css
+File Name: C:\Downloaded Web Sites\guclan.hostman.site\css (1)\app.b6fbc7aa.css
+Content Type: text/css
+
+Uri: https://guclan.hostman.site/css/chunk-vendors.b709197d.css
+File Name: C:\Downloaded Web Sites\guclan.hostman.site\css (1)\chunk-vendors.b709197d.css
+Content Type: text/css
+
+Uri: https://guclan.hostman.site/favicon.ico
+File Name: C:\Downloaded Web Sites\guclan.hostman.site\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://guclan.hostman.site/js/app.af1a895b.js
+File Name: C:\Downloaded Web Sites\guclan.hostman.site\js\app.af1a895b.js
+Content Type: application/javascript
+
+Uri: https://guclan.hostman.site/js/chunk-vendors.3b9cc78c.js
+File Name: C:\Downloaded Web Sites\guclan.hostman.site\js\chunk-vendors.3b9cc78c.js
+Content Type: application/javascript
+
+Uri: https://unpkg.com/aos@3.0.0-beta.6/dist/aos.css
+File Name: C:\Downloaded Web Sites\guclan.hostman.site\aos@3.0.0-beta.6\dist\aos.css
+Content Type: text/css
+
+Uri: https://unpkg.com/aos@3.0.0-beta.6/dist/aos.js
+File Name: C:\Downloaded Web Sites\guclan.hostman.site\aos@3.0.0-beta.6\dist\aos.js
+Content Type: application/javascript
+
